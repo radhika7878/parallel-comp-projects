@@ -1,0 +1,9 @@
+                                    excl. time  incl. time
+*excl. time  incl. time      calls      / call      / call  name
+    0.131ms     0.188ms       2.33    56.314us    80.508us  populateTree
+    0.131ms     0.132ms       0.11     1.177ms     1.184ms  main
+    0.100ms     0.236ms       0.89     0.113ms     0.266ms  threadFn
+    2.418us     7.013us       1.44     1.674us     4.855us  mergeTrees
+    2.388us     2.735us       3.56     0.672us     0.769us  changeVote
+    0.442us     0.868us       0.78     0.569us     1.116us  split
+    0.387us     0.387us       0.11     3.487us     3.487us  pruneTree
