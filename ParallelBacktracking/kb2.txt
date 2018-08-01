@@ -1,0 +1,17 @@
+happy 1 0
+1 0
+yolanda 1
+listens 2 0
+1 0
+mia 1
+1 1
+mia 1
+1 happy yolanda 1
+plays 2 0
+1 1
+mia 1
+1 listens mia 1
+1 1
+yolanda 1
+1 listens yolanda 1
+. 

@@ -1,0 +1,38 @@
+f 1 0 
+0 3 
+2 t X 2 three 1 
+1 p Y 2
+1 q Y 2
+p 2 0
+1 2
+L 2
+2 s L 2 M 2
+2 t M 2 L 2
+1 1
+K 2
+1 r K 2
+q 2 0
+1 0
+one 1
+1 0
+two 1
+r 2 0
+1 0
+one 1
+1 0
+three 1
+s 2 0
+2 0
+two 1
+three 1
+2 0
+four 1
+five 1
+t 2 0
+2 0
+three 1
+three 1
+2 0
+three 1
+two 1
+.

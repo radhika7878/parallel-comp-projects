@@ -1,0 +1,66 @@
+b 1 5
+1 0
+neal 1
+1 0
+sean 1
+1 0
+john 1
+1 0
+cleo 1
+1 0
+kyle 1
+g 1 5
+1 0
+amy 1
+1 0
+may 1
+1 0
+lydia 1
+1 0
+kathy 1
+1 0
+rose 1
+p 1 8
+2 0
+neal 1
+cleo 1
+2 0 
+neal 1
+kyle 1
+2 0
+amy 1
+cleo 1
+2 0 
+amy 1
+kyle 1
+2 0
+sean 1
+kathy 1
+2 0
+may 1
+kathy 1
+2 0
+john 1
+rose 1
+2 0
+lydia 1
+rose 1
+f 1 0
+2 2
+X 2
+Y 2
+1 b X 2
+2 p X 2 Y 2
+m 1 0
+2 2
+X 2
+Y 2
+1 g X 2
+2 p X 2 Y 2
+c 1 0
+2 1
+Y 2
+X 2
+2 p X 2 Y 2
+.
+
